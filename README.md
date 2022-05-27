@@ -9,4 +9,6 @@ We used 2 APIs:
 - Dataframe API / Spark SQL : https://spark.apache.org/docs/2.4.4/sql-programming-guide.html
 
 
-Dataset comes from Full MovieLens Dataset. The part of this Dataset that we used is available on Kaggle: http://www.cslab.ntua.gr/courses/atds/movie_data.tar.gz 
+Dataset comes from Full MovieLens Dataset. The part of this Dataset that we used is available on Kaggle: http://www.cslab.ntua.gr/courses/atds/movie_data.tar.gz
+
+You can see the project details in project.pdf file
